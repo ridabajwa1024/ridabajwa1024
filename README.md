@@ -1,17 +1,57 @@
-# Hi, I'm Rida 👋  
+<h1 align="center">Hi 👋, I'm Rida Bajwa</h1>
+<h3 align="center">🚀 Passionate Front-End Developer & UI/UX Designer from Pakistan</h3>
 
-🚀 **Full-Stack Developer (in progress)** | 🎨 UI/UX Enthusiast  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Front-End+Developer;React+Learner;UI%2FUX+Designer;Future+Full+Stack+Developer" alt="Typing SVG" />
+</p>
 
-- 🌱 Currently learning **HTML, CSS, JavaScript, React & Node.js**  
-- 💡 Interested in Web Development , UI&UX   
-- ⚡ Fun fact: I love designing modern, clean UIs.  
+---
 
-## 🛠️ Tech I'm Learning
-- Frontend: HTML, CSS, JavaScript, React  
-- Backend: Node.js, Express  
-- Database: MongoDB, MySQL  
-- Tools: Git, GitHub, VS Code  
+### 🌟 About Me  
+- 🌱 I’m currently learning **React & TailwindCSS**  
+- 🎯 Goal: Become a **Full-Stack Web & App Developer**  
+- 💡 Interested in **UI/UX Design** and smooth user experiences  
+- ⚡ Fun fact: I love to design **clean & minimal UIs** before coding  
 
-## 📊 GitHub Stats
-![Rida's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridabajwa1024&show_icons=true&theme=tokyonight)
+---
 
+### 🔧 Tech Stack & Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/Code-HTML5-orange?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-CSS3-blue?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Framework-React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-Figma-9cf?logo=figma&logoColor=black" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rida-bajwa&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rida-bajwa&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+---
+
+### 🚀 Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rida-bajwa&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Connect With Me  
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+⭐️ From [rida-bajwa](https://github.com/rida-bajwa) this is my read me now edit this and add bagdets animation whatever to make it professional 
