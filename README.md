@@ -45,13 +45,4 @@
 
 ---
 
-### 🤝 Connect With Me  
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
 ⭐️ From [rida-bajwa](https://github.com/rida-bajwa) this is my read me now edit this and add bagdets animation whatever to make it professional 
