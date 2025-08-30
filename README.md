@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rida Bajwa</h1>
-<h3 align="center">🚀 Passionate Front-End Developer & UI/UX Designer from Pakistan</h3>
+<h3 align="center">🚀A beginner from Pakistan who want to become Full stack developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Learner;React+Learner;UI%2FUX+Designer;Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=React+Learner;UI%2FUX+Designer;Developer" alt="Typing SVG" />
 </p>
 
 ---
