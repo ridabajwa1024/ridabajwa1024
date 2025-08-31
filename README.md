@@ -11,14 +11,11 @@
 ---
 
 ### 🔧 Tech Stack & Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/Code-HTML5-orange?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-CSS3-blue?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Framework-React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design-Figma-9cf?logo=figma&logoColor=black" />
+### 🚀 Tech Stack  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode" />
 </p>
+
 
 ---
 
