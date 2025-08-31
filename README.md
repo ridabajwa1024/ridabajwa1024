@@ -4,9 +4,8 @@
 ---
 
 ### 🌟 About Me  
-- 🌱 I’m currently learning **React & TailwindCSS**  
-- 🎯 Goal: Become a **Full-Stack Web & App Developer**  
-- 💡 Interested in **UI/UX Design** and smooth user experiences  
+- 🌱 I’m currently learning **React**  
+- 💡 Interested in **UI/UX Design**  
 - ⚡ Fun fact: I love to design **clean & minimal UIs** before coding  
 
 ---
