@@ -13,7 +13,7 @@
 ### 🔧 Tech Stack & Tools  
 ### 🚀 Tech Stack  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,git,github,vscode" />
 </p>
 
 
