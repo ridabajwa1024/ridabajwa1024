@@ -12,7 +12,7 @@
 
 ### 🔧 Tech Stack & Tools   
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,framermotion,git,github,vscode" />
 </p>
 
 
