@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rida Bajwa</h1>
+<h1 align="center">Hi 👋, I'm Rida</h1>
 <h3 align="center">🚀A beginner who want to become Full stack developer</h3>
 
 ---
