@@ -9,11 +9,12 @@
 - ⚡ Fun fact: I love to design **clean & minimal UIs** before coding  
 
 ---
-
 ### 🔧 Tech Stack & Tools   
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,framerMotion,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,git,github,vscode" />
+  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" width="48" />
 </p>
+
 
 
 ---
