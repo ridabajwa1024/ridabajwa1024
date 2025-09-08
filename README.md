@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rida</h1>
-<h3 align="center">🚀A beginner who want to become Full stack developer</h3>
+<h3 align="center">🚀On A journey of becoming a Full Stack</h3>
 
 ---
 
